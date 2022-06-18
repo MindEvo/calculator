@@ -1,4 +1,3 @@
-# I wanted to check out Rust.
+I wanted to check out Rust.
 
-# Resource
-# Freecodecamp.org Youtube url: https://youtu.be/MsocPEZBd-M
+I followed along with this video by Freecodecamp.org: https://youtu.be/MsocPEZBd-M
